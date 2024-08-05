@@ -1,0 +1,9 @@
+[package]
+name = "bytepusher_frontend"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+bytepusher_core = { path = "../bytepusher_core" }
+rodio = "*"
+sdl2 = { version = "*", features = ["bundled", "static-link"] }
