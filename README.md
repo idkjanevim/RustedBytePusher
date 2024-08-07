@@ -1,4 +1,4 @@
-# RustedBytePusher
+# rustpusher
 
 BytePusher Emulator in Rust
 
